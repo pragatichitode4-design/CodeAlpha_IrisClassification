@@ -1,1 +1,24 @@
+# Iris Flower Classification
+
+## CodeAlpha Data Science Internship – Task 1
+
+This project builds a Machine Learning model to classify Iris flowers into:
+- Setosa
+- Versicolor
+- Virginica
+
+## Tools Used
+Python, Pandas, Matplotlib, Scikit-learn
+
+## Model
+Random Forest Classifier
+
+## Accuracy
+~98%
+
+## How to Run
+Open the notebook in Google Colab and run all cells.
+
+## Author
+Your Name
 
